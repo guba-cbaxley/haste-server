@@ -25,7 +25,7 @@
 
   "storage": {
     "type": "file",
-    "path": "./data",
+    "path": "./data"
   },
 
   "documents": {
